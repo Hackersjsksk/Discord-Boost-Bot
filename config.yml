@@ -1,0 +1,73 @@
+{
+  "misc": {
+    "capmonster": ,
+    "main_stock": 105150334096345516436
+  },
+  "bot settings": {
+    "main": {
+      "token": ,
+      "status": "do_not_disturb",
+      "activity": "https://t.me/shadowchatofficial",
+      "activity_type": "streaming",
+      "prefix": "$"
+    },
+    "other": {
+      "guild_id": 1077006821014909010,
+      "admins": [
+        1051503340963516436
+      ]
+    }
+  },
+  "commands": {
+    "boost": true,
+    "stock": true,
+    "restock": true,
+    "send_tokens": true,
+    "reformat": true,
+    "activity": true,
+    "license": true,
+    "payments": true
+  },
+  "watermark settings": {
+    "data": {
+      "change_nick": true,
+      "change_bio": true
+    },
+    "watermarks": {
+      "username": "hussh",
+      "bio": "https://t.me/shadowchatofficial"
+    }
+  },
+  "payments": {
+    "data": {
+      "Paypal": true,
+      "Cashapp": false,
+      "Bitcoin": true,
+      "Litecoin": true,
+      "Ethereum": true,
+      "Solana": false,
+      "Monero": false,
+      "Bitcoin Cash": false
+    },
+    "addresses": {
+      "Paypal": "https://www.paypal.com/paypalme/",
+      "Cashapp": "Dont have",
+      "Bitcoin": " ",
+      "Litecoin": " ",
+      "Ethereum":  ,
+      "Solana": null,
+      "Monero": null,
+      "Bitcoin Cash": null
+    },
+    "emojis": {
+      "Paypal": "<:6788_SN_Paypal_512x512:996392200134995978>",
+      "Cashapp": "<:CashApp:1028009340629684335>",
+      "Bitcoin": "<:BTC:1028009398985031761>",
+      "Litecoin": "<:ltc:1028009470552440952>",
+      "Ethereum": null,
+      "Solana": null,
+      "Monero": null,
+      "Bitcoin Cash": null
+    }
+  }
+}
